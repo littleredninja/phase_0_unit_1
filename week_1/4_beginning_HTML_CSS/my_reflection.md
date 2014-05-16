@@ -5,4 +5,4 @@
 * Did you have an "aha" moments or were any concepts solidified?
 * Did you find any resources on your own that helped you better understand a topic? If so, please list it.
 
-<!-- Add your reflection here. Remove the comment markers -->
+HTML is pretty straighforward, but I've always had trouble with containers, remembering the difference between padding and margins, and remembering syntax.  Despite those issues, I like how HTML and CSS are both fairly readable.
