@@ -8,4 +8,4 @@ Researching a blog post on your favorite websites is incredibly difficult, becau
 
 But seriously, I enjoy blogging and don't mind the process of writing articles, especially articles regarding my own opinion of things.  
 
-I ran into some troubles with my css syntax, but I feel like this is a byproduct of feeling like I need to keep up and thus rushing through my studies and my projects.  When I feel myself hitting a wall, I try to take a break and get a snack, but with this method of coping I may end up eating an awful lot of cookies, cakes and other tasty treats.
+I ran into some troubles with my css syntax, but I feel like this is a byproduct of feeling like I need to keep up and thus rushing through my studies and my projects.  When I feel myself hitting a wall, I try to take a break and get a snack, but with this method of coping I may end up eating an awful lot of cookies, cakes and other tasty treats.  I do find myself becoming more proficient in writing css though, and that is very encouraging.  
