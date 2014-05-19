@@ -7,4 +7,6 @@
 * Which parts of the challenge did you enjoy?
 * Which parts of the challenge did you find tedious?
 
-<!-- Add your reflection here. Remove the comment markers -->
+I am still having trouble understanding display, position and pseudo-classes in css.  I couldn't figure out how to place a caption over a photo;  it's something I'll have to fiddle with this next week.  I was able to successfully make a opacity hover for an image, so I'm excited about that.   
+
+I also had to google some examples of syntax, but I don't particularly like the sites I've been using.  Is there more reliable source that www3 schools? 
