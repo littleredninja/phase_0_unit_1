@@ -10,4 +10,4 @@
 * Which parts of the challenge did you enjoy?
 * Which parts of the challenge did you find tedious?
 
-<!-- Add your reflection here. Remove the comment markers -->
+I am really interested in the processes that professional designers use when creating websites, and so I found the articles enlightening.  I like making and designing websites, and I always make a wireframe when starting, although I never called them that.  I'm beginning to see how the process of designing websites translates into the coding and creation of pages.  
