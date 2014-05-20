@@ -39,4 +39,4 @@ That part of the site is an image inside a div, so you'd have to find the image 
 
 * Test the www.ticketswizard.com website with google's [PageSpeed Insights](http://www.ticketswizard.com/).  (You can also download the chrome plugin).  What is the easiest thing to change to optimize the website?  How many kilobytes of data can be eliminated?
 
-  I guess it depends on what you mean by easy, but I would optimize the images, as that's easy for me and saves 885.9KiB for a 39% reduction.  I'm not sure how much work it is to defer parsing JavaScript or to leverage browser caching.  
+  I guess it depends on what you mean by easy, but I would optimize the images, as that's easy for me and saves 885.9KiB for a 39% reduction.  I'm not sure how much work it is to defer parsing JavaScript or to leverage browser caching, but that would add some speed as well.  
