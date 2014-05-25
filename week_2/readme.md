@@ -32,3 +32,11 @@ Once you have the entire local repository on your computer, you don't need to re
 
 **You need to submit your work through on [apply.devbootcamp.com](http://apply.devbootcamp.com) by Sunday at 11:59pm. When you log in, look at your profile page. There should be a "Unit 1 Week 2 Submission" form.** If you do not complete the challenges by Sunday, fill out the extension request form and complete the submission form when you finish.
 
+<<<<<<< HEAD
+=======
+
+## Remember your Unit Goals!
+- Pair at least twice this week with a member of your accountability group (you can feel free to pair outside of your group as well).  *You need to pair 4 times on your own this unit*
+- Give feedback for each person you paired with. *You need to submit at least 5 pieces of feedback in this unit*
+- Rate at least 7 pieces of [Meta Feedback](https://socrates.devbootcamp.com/feedback) on Socrates. *You need to rate 20 pieces of feedback per unit*
+>>>>>>> FETCH_HEAD

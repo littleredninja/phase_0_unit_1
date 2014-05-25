@@ -24,9 +24,15 @@ If you would like to open tabs in a new window, please either right click or hol
 
 ## Submitting your work
 You need to submit your work through on [apply.devbootcamp.com](http://apply.devbootcamp.com) by Sunday at 11:59pm. When you log in, look at your profile page. There should be a "Unit 1 Week 1 Form." There is also an extension request form. If you do not finish your work by the designated time, please complete the extension request. When you finish, you are expected to submit your work on the week submission form. 
+<<<<<<< HEAD
 
 Expect to submit your links for each of the following:
 
+=======
+
+Expect to submit your links for each of the following:
+
+>>>>>>> FETCH_HEAD
 * Your new website ([USERNAME].github.io)
 * Each html page created in `unit1_projects` folder
 * Your forked `phase_0_unit_1` repository link

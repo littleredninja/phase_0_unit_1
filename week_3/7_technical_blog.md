@@ -18,7 +18,11 @@ Research the following questions:
 Write about what you learned during your research. There is no length requirement, but you should write your blog for a non-technical audience that shows off your understanding of the material.
 
 ## Release 3: Publish
+<<<<<<< HEAD
 Link to your post from `index.html` so people can navigate to your page from your site's index and push your changes. Make sure the index of your site is maintained, nice, and professional. This is your face in the online community, so make it nice!
+=======
+Link to your blog on the index of your github.io site and push your changes. Make sure the index of your site is maintained, nice, and professional. This is your face in the online community, so make it nice!
+>>>>>>> FETCH_HEAD
 
 ## Release 4: Share!
 
