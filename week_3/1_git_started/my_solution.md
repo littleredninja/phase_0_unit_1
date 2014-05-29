@@ -105,6 +105,8 @@ fatal: No commit specified and merge.defaultToUpstream not set.
 I haven't found one yet;  I think it is because I didn't have any changes to merge.  I want to try it again when I actually have some changes to pull.  
 
 
-
-
 ## Release 6: Reflection
+
+I understand the necessity for a tool like Git, and I'm excited to be more proficient in it because I see how powerful it can be.  But I find some of the commands confusing, and I'm still not sure how to revert files to previous changes, or how to judge conflicts.  I am glad that it provides very detailed error messages;  So far, even if I don't understand why something happened, it does manage to explain how to fix things rather well in the messages it returns.  
+
+As a side, Markdown is slightly confusing!  Why did it change some of my document?  For example, it shows Roman numerals instead of Arabic numbers, and changed some of my numbers.
