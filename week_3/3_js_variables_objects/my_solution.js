@@ -1,24 +1,46 @@
-// I paired [by myself, with:] on this challenge.
+// I paired with the awesome Grace Yim on this challenge.
 
 // __________________________________________
 // Write your code below.
 
+//Pairing 5.27.14
 
+//1.
+var secretNumber=1;
 
+//2.
+var secretNumber=7;
 
+//3.
+var password="string";
 
+//4.
+password = "just open the door";
 
+//5. 
+var allowedIn = true;
 
+//6. 
+var allowedIn = false;
+
+//7.
+var members = [1, 2, 3];
+
+//8.
+members[0] = "John";
+
+//9.
+members.push("Mary");
 
 // __________________________________________
 // Reflection: Use the reflection guidelines to write a reflection here. 
+// I really enjoyed pairing with Grace on these exercises, because in working 
+//with another person I felt like they were easier than I anticipated.  I 
+//think having another person to bounce ideas on and share questions with made 
+//me feel more confident while coding.  I still face problems remembering 
+//syntax, but Grace and I were able to easily find solutions to any questions 
+//we came across.  
 // 
-// 
-// 
-// 
-// 
-// 
-
 
 // __________________________________________
 // Test Code:  Do not alter code below this line.
