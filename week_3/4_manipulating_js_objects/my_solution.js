@@ -17,17 +17,78 @@ var terah = {
 // __________________________________________
 // Write your code below.
 
+var adam = {
+  name: "Adam"
+};
 
+terah.spouse = adam;
+terah.weight = 125;
+delete terah.eyeColor;
 
+adam.spouse = terah;
 
+terah.children = {};
 
+terah.children.carson = {
+  name: "Carson"
+};
 
+terah.children.carter = {
+  name: "Carter"
+};
+
+terah.children.colton = {
+  name: "Colton"
+};
+
+adam.children = terah.children;
+
+//or
+
+terah.children.carson = {}
+
+terah.children.carson.name = "Carson";
+
+terah.children.carter = {};
+
+terah.children.carter.name = "Carter";
+
+terah.children.colton = {};
+
+terah.children.colton.name = "Colton";
+
+adam.children = terah.children;
 
 
 // __________________________________________
 // Reflection: Use the reflection guidelines
 // 
-// 
+// I'm learning alot about the way I learn new things, and one things
+// that frustrates me immensely is not understanding the new vocabulary
+// we're learning.  I spent a good bit of time on a problem because I 
+// didn't understand the question or what it was asking for.  Also I see
+// that I can understand the basics of a question, but when the problem 
+// requires me to apply some sort of variation, I like to look for examples 
+// or a model to work from. This can prove frustrating because I don't know how 
+// to look for these examples - I end up googling for a while but can 
+// never seem to find something that fits.  I value having someone to help
+// in these instances, because once I see an example I am usually able to
+// apply it to my own solution.
+
+// Between learning the basics in Ruby and Javascript, I prefer Ruby 
+// because of it's readability, but I see how once I am more proficient
+// in either that it's easy to translate skills learned in one language
+// to another.  I also see that working with computer languages takes 
+// a shift in how one communicates, but it is not an easy transition from
+// learning a speaking language.  The thinking patterns and skills are 
+// different to me;  learning a speaking language is fairly fluid
+// and flexible, while computer languages are not and small mistakes do not 
+// explain themselves away.  During this challenge I made a lot of little 
+// mistakes that took a good bit of time to figure out, and at the end
+// I still can't figure out what it was that I did wrong initially.
+// Hopefully with some time I can get accustomed to reading code, and 
+// watching for those little things that cost so much time and ulitmately
+// energy.  
 // 
 // 
 // 
