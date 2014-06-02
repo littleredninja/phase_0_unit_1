@@ -30,3 +30,10 @@ var median = function(array) {
 	  return array[half - .5];
 	  }
 }
+
+// // Building code from a disembodied pseudocode was a little mystifying for me, but 
+// I liked the challenge of putting it together.  I think this exercise gave me a 
+// great opportunity to practice writing functions, and I felt more confident after
+// I finished writing them.  I had someone review them to check for syntax and the 
+// overall structure, and I thought it was inteteresting to only work on one part of
+// a bigger project.  
