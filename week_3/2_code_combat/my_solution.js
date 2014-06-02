@@ -178,6 +178,13 @@ this.attackXY(61, 43);
 // Reflection:
 // Write your reflection here.
 
+// this. referes to the object that a function is a method of.
+ 
+// () allows you to call a function.  Without the (), the console will only return
+//  the type of object it is.
+
+// semicolons seperate statements.  
+
 // Though simplistic, I thought this was a fun way to get acclimated
 // to JS syntax.  With the simple functions and arguments, I feel 
 // the game was a good introduction to how JS works in practice. 
